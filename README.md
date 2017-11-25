@@ -2,19 +2,10 @@
 A multiplayer tag game using Micro Python, bluetooth, an OLED display and a Piezo Buzzer.
 
 I was trying to see how much of an actual multiplayer game I could make with the external display and sound.
-This isn't the most graphically / sonically exciting game I've ever played, but it is kinda fun and I started running out of memory so until I make something lower level or figure out how to free up some more this may be about the extent of what it can pull off.
+This isn't the most graphically / sonically exciting game I've ever played, but it is kinda fun. I ran out of memory pretty fast so it would appear that this is as complicated a multiplayer game as I could make with micropython.
 
 ## Video walkthrough of the hardware build
-COMING SOON
-
-### Current developement progress:
-
-| Progress        | Description           
-| ------------- |:-------------:
-| Done! | Initial build. |
-| Done! | Write Initial Micro Python code. |
-| 0% | Put together tutorial video on initial build, initial code, key learnings and demonstration. |
-| 0% | 2nd pass at Python code, clean things up, etc. |
+[![BBC Micro:bit game Video](https://img.youtube.com/vi/IspkMoiKzlE/0.jpg)](https://youtu.be/IspkMoiKzlE)
 
 The hardware consists of:
 1. A BBC Micro:bit
